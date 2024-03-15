@@ -20,6 +20,10 @@ This is a Tic Tac Toe game where you can play against a computer bot. The game b
 
 
 
+https://github.com/Asrinss/tic-tac-toe/assets/98893650/38fc78b2-7a8d-4ffb-941f-af1a8e043888
+
+
+
 ## Contribution
 
 If you would like to contribute to this project, please open a pull request or create an issue.
